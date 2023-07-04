@@ -18,3 +18,27 @@ To Run this project run
 **Client:** React, Redux, font awesome
 
 **Server:** Node
+
+
+## Installation
+
+For uid
+
+  ```bash
+  npm i u uid
+```  
+For font awesome
+1. Add SVG Core
+ ```bash
+  npm i --save @fortawesome/fontawesome-svg-core
+```  
+2. Add Icon Packages
+ ```bash
+  # Free icons styles
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+```  
+3. Add the React Component
+ ```bash
+npm i --save @fortawesome/react-fontawesome@latest
+```  

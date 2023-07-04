@@ -11,3 +11,11 @@ To Run this project run
 ```bash
   npm start
 ```
+
+
+## Tech Stack
+
+**Client:** React, Redux, font awesome
+
+**Server:** Node
+

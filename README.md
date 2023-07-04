@@ -18,7 +18,3 @@ To Run this project run
 **Client:** React, Redux, font awesome
 
 **Server:** Node
-
-## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1YeP7ymJ54l3U6BMT7ZPEtIuwfUFNQd7V/view?usp=drive_link)
